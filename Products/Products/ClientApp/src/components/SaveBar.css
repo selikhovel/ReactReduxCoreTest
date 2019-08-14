@@ -1,0 +1,10 @@
+﻿.SaveBar {
+    height: 72px;
+    width: 100vw;
+    text-align: left;
+    display: inline-block;
+}
+
+button {
+    margin: 20px;
+}
